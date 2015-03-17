@@ -33,6 +33,8 @@ Artoo continues making beeping sounds. Tension mounts as
 loud metallic latches clank and the scream of heavy equipment
 are heard moving around the outside hull of the ship.#
 
-if 11/7 < 3.14
+if 22/7 > 3.14
     print "It is not a special day! "
+else
+    print "I'm just waiting for St. Paddy's day! "
 end
